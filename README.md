@@ -16,7 +16,7 @@ https://support.rstudio.com/hc/en-us/articles/200532077?version=0.99.489&mode=de
 
 Versioning system software like GitHub functions much like DropBox. You can have the same files stored on multiple computers and they will sync seamlessly via the cloud. With DropBox this process is automatic - DropBox will assume that if you make a change on a file on one computer, you will want updated versions on other computers. This is a file-sync system.
 
-<img src="https://raw.githubusercontent.com/lecy/github-setup-for-rstudio/master/Images/dropbox.png" width="450" align="center">
+<CENTER><img src="https://raw.githubusercontent.com/lecy/github-setup-for-rstudio/master/Images/dropbox.png" width="450"></CENTER>
 
 
 Versioning systems function in a very similar way, but instead of solving a problem of keeping files syncronized with one user and multiple computers, versioning systems solve the problem of having one set of files and multiple users that are all working on the project. As a result, the major difference between DropBox and GitHub is that updates are not automatic when changes are made to files. Users must submit changes, and they must be approved. In order to get the most recent file version, you must request it.
